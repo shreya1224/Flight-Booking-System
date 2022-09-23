@@ -1,0 +1,48 @@
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  background: url("../assets/search.jpg");
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 120px;
+}
+.addflight {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  background: url("../assets/1.jpg");
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 120px;
+}
+
+.form2 {
+  background-color: rgba(34, 88, 79, 0.466);
+  padding: 10px 50px;
+  border-radius: 10px;
+  /*opacity: 1;*/
+}
+.form3 {
+  background-color: rgba(150, 141, 37, 0.304);
+  padding: 10px 50px;
+  border-radius: 10px;
+  width: 500px;
+  margin-top: 50px;
+  /*opacity: 1;*/
+}
+
+
+
+img {
+  padding-top: 100px;
+  width: 80px;
+  height: 80px;
+  border-radius: 0%;
+  position: absolute;
+  top: -50px;
+  left: calc(50% - 40px);
+}
+
